@@ -1,3 +1,25 @@
+commit 632ec0d3db4b2cf3433985078e7808a6720faa54
+Author: Mark Johnson <wmdmark@gmail.com>
+Date:   Tue Mar 25 16:59:24 2025 -0400
+
+    Feedback for Omnico Project 1
+
+diff --git a/feedback/readme.md b/feedback/readme.md
+new file mode 100644
+index 0000000..4c43ab6
+--- /dev/null
++++ b/feedback/readme.md
+@@ -0,0 +1,9 @@
++# Omnico Project 1 Evaluation for Jalil Garvin Mingo
++
++### Project Implementation
++
++Your submission is incomplete. Please check with your instructor for more details.
++
++---
++
++GRADE: F
+
 commit e428daee01ffed3bc14068ccd62cba68d78e10d8
 Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
 Date:   Tue Feb 25 20:30:46 2025 +0000
